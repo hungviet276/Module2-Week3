@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d1de996-3952-4abc-b365-8acd8b9d5a14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BinarySearchNotUseRecursion.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bvHruRTlDfTL89ZMsZIKnRXNaB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.BinarySearchNotUseRecursion">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="BinarySearchNotUseRecursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchNotUseRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearchNotUseRecursion" />
+      <module name="BinarySearchNotUseRecursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearchNotUseRecursion" />
+        <item itemvalue="Application.BinarySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d1de996-3952-4abc-b365-8acd8b9d5a14" name="Default Changelist" comment="" />
+      <created>1589505848291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589505848291</updated>
+      <workItem from="1589505850035" duration="1348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1589506981428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589506981428" />
+    <state x="422" y="3" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589507093544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="422" y="3" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1589507093544" />
+    <state x="496" y="107" key="FileChooserDialogImpl" timestamp="1589507197178">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="107" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589507197178" />
+    <state width="1509" height="195" key="GridCell.Tab.0.bottom" timestamp="1589507198518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589507198518" />
+    <state width="1509" height="195" key="GridCell.Tab.0.center" timestamp="1589507198518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589507198518" />
+    <state width="1509" height="195" key="GridCell.Tab.0.left" timestamp="1589507198518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589507198518" />
+    <state width="1509" height="195" key="GridCell.Tab.0.right" timestamp="1589507198518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589507198518" />
+    <state x="36" y="0" key="new project wizard" timestamp="1589507198469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="36" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589507198469" />
+  </component>
+</project>
